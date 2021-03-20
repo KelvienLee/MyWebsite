@@ -6,14 +6,14 @@
 
 > **注意** 元组中只包含一个元素时，需要在元素后添加逗号， 否则会被当作运算符使用。
 
-	```python
-	>>> tuple = (10)
-	>>> type(tuple)
-	<class 'int'>
-	>>> tuple = (10,)
-	>>> type(tuple)
-	<class 'tuple'>
-	```
+```python
+>>> tuple = (10)
+>>> type(tuple)
+<class 'int'>
+>>> tuple = (10,)
+>>> type(tuple)
+<class 'tuple'>
+```
 
 ## 索引
 
