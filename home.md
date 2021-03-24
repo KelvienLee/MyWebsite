@@ -7,7 +7,7 @@
 > 希望这里的内容能够对你有用，爱创作，爱编程，爱生活！
 
 > 代码构建世界
-> 
+>
 > 设计美化世界
 
 ---
@@ -20,12 +20,14 @@
 
 [Python 元组](http://weiguang19.xyz/Program/index.html#/Python/PythonTuple.md)
 
-
 [Python 列表](http://weiguang19.xyz/Program/index.html#/Python/PythonList)
 
-[Pytons OS模块基础](http://weiguang19.xyz/Program/index.html#/Python/PythonOsModule)
+[Python 字典](http://weiguang19.xyz/Program/index.html#/Python/PythonDict)
+
+[Pytons OS 模块基础](http://weiguang19.xyz/Program/index.html#/Python/PythonOsModule)
 
 ---
+
 <!-- <div
 style="position: relative; padding: 30% 45%;">
 
@@ -36,7 +38,7 @@ frameborder="no"
 scrolling="no">
 
 </iframe>
-</div> 
+</div>
 代码的含义：
 
     >> page -> 起始下标为 1 (默认值也是为1)
